@@ -3,7 +3,7 @@ Small tool to bleed the border colors of an image with transparency through the 
 
 Based on https://github.com/urraka/alpha-bleeding
 
-`alpha_bleeding.exe options source destination`
+`alpha_bleeding.exe [options] source [destination]`
 
 Options:
 ```
