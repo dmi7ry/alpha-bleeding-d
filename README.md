@@ -1,5 +1,5 @@
 # alpha-bleeding-d
-Small tool to bleed the border colors of an image (PNG only) with transparency through the pixels that are fully transparent.
+A small tool to bleed the border colors of an image (PNG only) with transparency through the pixels that are fully transparent.
 
 Based on https://github.com/urraka/alpha-bleeding
 
