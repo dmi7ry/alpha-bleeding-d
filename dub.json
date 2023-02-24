@@ -1,6 +1,6 @@
 {
 	"name": "alpha_bleeding",
 	"dependencies": {
-		"dlib": "~>0.12.2"
+		"dlib": "~>1.1.0"
 	}
 }
